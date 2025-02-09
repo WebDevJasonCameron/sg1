@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+/Instructor
+/External Libraries
+*.zip
+
+db.php
